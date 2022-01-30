@@ -1,0 +1,11 @@
+baseURL = 'https://hariprakash.in'
+languageCode = 'en-us'
+title = 'Hari Prakash J'
+theme = "hyde"
+
+[params]
+  description = "Cloud Engineer"
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/hariprakash-j"}
+  ]
