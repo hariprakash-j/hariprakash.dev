@@ -1,4 +1,4 @@
-baseURL = 'https://hariprakash.in'
+baseURL = 'https://hariprakash.in/'
 languageCode = 'en-us'
 title = 'Hari Prakash J'
 theme = "hyde"
