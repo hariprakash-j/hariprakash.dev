@@ -8,7 +8,7 @@ Cloud Engineer with 4+ Years of strong hands on experience in AWS and Azure and 
 |:---|:---:|
 |**System languages**|*Rust, C and C++*|
 |**General Languages**|*JavaScript and Python*|
-|**Markup Languages**|*Toml, Yaml, MarkDown, Latex, HTML*|
+|**Markup Languages**|*Toml, Yaml, MarkDown, Latex, HTML, CSS*|
 |**Scripting Languages**|*Bash, Powershell*|
 
 ### Tools
@@ -22,5 +22,5 @@ Cloud Engineer with 4+ Years of strong hands on experience in AWS and Azure and 
 ## Certifications
 |||
 |:---:|:---:|
-|AWS Certified Solutions Architect - Professional|![cert 1](pages/aws-certified-sysops-administrator-associate.png)|
-|AWS Certified SysOps Administrator - Associate|![cert 2](pages/aws-certified-solutions-architect-professional.png)|
+|AWS Certified Solutions Architect - Professional|![cert 1](pages/aws-certified-solutions-architect-professional.png)|
+|AWS Certified SysOps Administrator - Associate|![cert 2](pages/aws-certified-sysops-administrator-associate.png)|
