@@ -23,7 +23,7 @@ jobs:
           hugo-version: '0.91.2'
           # extended: true
       - name: Build
-        run: hugo --minify
+        run: hugo
       - name: Setup AWS
         run: aws configure set aws_access_key_id ${{ secrets.AWS_ACCESS_KEY_ID }} && aws configure set aws_secret_access_key ${{ secrets.AWS_SECRET_ACCESS_KEY }} && aws configure set default.region ap-south-1
       - name: Publish
