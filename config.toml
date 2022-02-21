@@ -1,10 +1,10 @@
 baseURL = 'http://hariprakash.in/'
 languageCode = 'en-us'
-title = 'Hari Prakash J'
+title = 'Hari Prakash'
 theme = "hyde"
 
 [params]
-  description = "Cloud Engineer"
+  description = "Cloud & DevOps Engineer"
 [Menus]
   main = [
       {Name = "Github", URL = "https://github.com/hariprakash-j"}
