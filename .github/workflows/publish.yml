@@ -29,5 +29,5 @@ jobs:
       - name: Publish
         run: aws s3 sync ./public/ s3://hariprakash.in/
       - name: Invalidate cache
-        run: aws cloudfront create-invalidation --distribution-id {{ secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
+        run: aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
         
