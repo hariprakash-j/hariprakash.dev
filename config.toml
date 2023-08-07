@@ -1,11 +1,45 @@
-baseURL = 'https://hariprakash.in/'
-languageCode = 'en-us'
-title = 'Hari Prakash'
-theme = "hyde"
+baseURL = "https://hariprakash.in"
+title = "Hari's blog"
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [params]
-  description = "Cloud & DevOps Engineer"
-[Menus]
-  main = [
-      {Name = "Github", URL = "https://github.com/hariprakash-j"}
-  ]
+  description = "A personal tech blog"
+  copyright = "Copyright © 2023 Hari Prakash J"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about me"
+    title = "about me"
+    url = "/about-me/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "github"
+    name = "github"
+    title = "github"
+    url = "https://github.com/hariprakash-j/"
+    weight = 20
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true
