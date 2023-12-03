@@ -14,25 +14,12 @@ uglyURLs = true
   highlight = true
 
 [menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "posts"
-    title = "posts"
-    url = "/"
-    weight = 10
 
   [[menu.main]]
     identifier = "about"
     name = "about me"
     title = "about me"
     url = "/about-me.html"
-    weight = 20
-
-  [[menu.main]]
-    identifier = "github"
-    name = "my github"
-    title = "github"
-    url = "https://github.com/hariprakash-j/"
     weight = 20
 
 [permalinks]
