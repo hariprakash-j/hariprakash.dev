@@ -29,7 +29,7 @@ pygmentsUseClasses = true
 
   [[menu.main]]
     identifier = "github"
-    name = "github"
+    name = "my github"
     title = "github"
     url = "https://github.com/hariprakash-j/"
     weight = 20
