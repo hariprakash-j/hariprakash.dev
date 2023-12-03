@@ -10,7 +10,7 @@ uglyURLs = true
 [params]
   description = "A personal tech blog"
   copyright = "Copyright © 2023 Hari Prakash J"
-  dark = "auto"
+  dark = "off"
   highlight = true
 
 [menu]
