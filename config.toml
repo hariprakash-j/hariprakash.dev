@@ -5,6 +5,7 @@ languageCode = "en-US"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+uglyURLs = true
 
 [params]
   description = "A personal tech blog"
@@ -24,7 +25,7 @@ pygmentsUseClasses = true
     identifier = "about"
     name = "about me"
     title = "about me"
-    url = "/about-me/"
+    url = "/about-me.html"
     weight = 20
 
   [[menu.main]]
