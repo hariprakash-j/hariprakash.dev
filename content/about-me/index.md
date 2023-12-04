@@ -4,6 +4,15 @@ title = 'About Me'
 
 FOSS and Privacy advocate, Linux nerd, Arch user and systems engineer with 6+ years of experience architecting, developing and operating very large monolithic and distributed software systems on public cloud platforms like AWS and bare metal.
 
+## My Socials
+
+You can follow me on...
+
+|                                                        |                                                                          |
+| -----------------------------------------------------: | :----------------------------------------------------------------------- |
+| <img src="/icons/mastodon.svg" width="25" height="25"> | <a rel="me" href="https://fosstodon.org/@hariprakashj">@hariprakashj</a> |
+|   <img src="/icons/github.svg" width="25" height="25"> | <a rel="me" href="https://github.com/hariprakash-j/">hariprakash-j</a>   |
+
 ## Technologies
 
 ### Programing
@@ -48,6 +57,13 @@ Here's what I use on servers when my life depends on it...
 
 ### Other Tools
 
+Here are some tools that help me automate workflows of the projects I work on...
+
+|                                                          |                  | <div style="width:100px"></div> |                                                  |                    |
+| -------------------------------------------------------: | :--------------- | ------------------------------- | -----------------------------------------------: | :----------------- |
+|     <img src="/icons/python.svg" width="25" height="25"> | _Jenkins_        |                                 | <img src="/icons/js.svg" width="25" height="25"> | _AWS CodePipeline_ |
+| <img src="/icons/typescript.svg" width="25" height="25"> | _Github Actions_ |                                 |                                                  |                    |
+
 |                              |                                                 |
 | :--------------------------- | ----------------------------------------------: |
 | **DevOps**                   | _Jenkins, Docker, CodePipeline, Github Actions_ |
@@ -59,18 +75,24 @@ Here's what I use on servers when my life depends on it...
 
 ## Experience
 
-- **Cloud Platform Site Reliability Engineer**  
+- **Cloud Platform Site Reliability Engineer**\
   Airbus ( June 2021 - Present )
 
-  - **Architecture** - **Development** - **Operations** - Worked on maintaining and developing Airbus Public Cloud platform, this is solution that manages all public cloud platforms ie. AWS, GCP and Azure - Creating landing zones for users, and handling day to day operations - Built and maintained Compliance for the platform, ie. managing SCPs, developing and maintaining compliance engine for checking and remediating user actions and resources on public cloud. - Planned and helped users across the org with migrating and operating workloads on PCP(Public Cloud Platform) - **Finops**
+  - **Architecture**
+    - Worked on Architecting and creating solutions to automate resource management across the organizaiton for managing costs, enforcing compliacne or security standards and improving realibility of the applications in the organization.
+  - **Development**
+    - Contibuted to the various solutions in the platform and created solutions to automate the devloper workflows and improving the devx.
+  - **Operations**
+    - Worked on maintaining and developing Airbus Public Cloud platform, this is solution that manages all public cloud platforms ie. AWS, GCP and Azure - Creating landing zones for users, and handling day to day operations - Built and maintained Compliance for the platform, ie. managing SCPs, developing and maintaining compliance engine for checking and remediating user actions and resources on public cloud. - Planned and helped users across the org with migrating and operating workloads on PCP(Public Cloud Platform) - **Finops**
 
-- **Solution Architecture Consultant**  
+- **Solution Architecture Consultant**\
   Freelancer ( May 2020 - May 2021 )
 
   - **Architecture and Development** - Consulted and worked on an end to end IOT solution. - Designed a power and environment monitoring solution. - Developed, tested and deliverd the power and environment monitoring solution.
 
-- **Cloud Engineer**  
+- **Cloud Engineer**\
   Cyient Limited ( January 2018 - May 2020 )
+
   - **Center of Excellence** - Worked on planning, designing and deploying Software Defined WAN on three branches as a part of the Proof of concept project. - Ensured best practicies were followed while moving workloads to the cloud. - Provided architecture advice and ensured smooth migragion of workloads to the cloud. - Worked on business continuity and disaster recovery with various projects in the organization. - Helped harden linux for projects and help them main compliance with the organization guidelines.
 
 ## Certifications
