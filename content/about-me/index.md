@@ -15,6 +15,8 @@ You can follow me on...
 
 ## Technologies
 
+I don't know who you are. I don't know what you want. If you are looking for my skills and talents I will ask you to keep reading because what I have are a very particular set of skills. Skills I have acquired over a very long career. Skills that make me an absolute asset to have in any situation.
+
 ### Programing
 
 These are the languges in my arsenal when I need to make things...
@@ -59,21 +61,47 @@ Here's what I use on servers when my life depends on it...
 
 Here are some tools that help me automate workflows of the projects I work on...
 
-|                                                          |                  | <div style="width:100px"></div> |                                                  |                    |
-| -------------------------------------------------------: | :--------------- | ------------------------------- | -----------------------------------------------: | :----------------- |
-|     <img src="/icons/python.svg" width="25" height="25"> | _Jenkins_        |                                 | <img src="/icons/js.svg" width="25" height="25"> | _AWS CodePipeline_ |
-| <img src="/icons/typescript.svg" width="25" height="25"> | _Github Actions_ |                                 |                                                  |                    |
+|                                                             |                  | <div style="width:100px"></div> |                                                               |                    |
+| ----------------------------------------------------------: | :--------------- | ------------------------------- | ------------------------------------------------------------: | :----------------- |
+|       <img src="/icons/jenkins.svg" width="25" height="25"> | _Jenkins_        |                                 | <img src="/icons/awscodepipeline.svg" width="25" height="25"> | _AWS CodePipeline_ |
+| <img src="/icons/githubactions.svg" width="25" height="25"> | _Github Actions_ |                                 |                                                               |                    |
 
-|                              |                                                 |
-| :--------------------------- | ----------------------------------------------: |
-| **DevOps**                   | _Jenkins, Docker, CodePipeline, Github Actions_ |
-| **Source Control Tools**     |                                           _git_ |
-| **Build Tools**              |                                          _Make_ |
-| **Cloud**                    |                                      _AWS, GCP_ |
-| **Configuration Management** |            _Ansible, CloudFormation, Terraform_ |
-| **Web**                      |                                  _Hugo, Svelte_ |
+Some source control management tools I use often to organize and version control things..
 
-## Experience
+|                                                     |         | <div style="width:100px"></div> |                                                      |          |
+| --------------------------------------------------: | :------ | ------------------------------- | ---------------------------------------------------: | :------- |
+|   <img src="/icons/git.svg" width="25" height="25"> | _Git_   |                                 | <img src="/icons/github.svg" width="25" height="25"> | _Github_ |
+| <img src="/icons/gitea.svg" width="25" height="25"> | _Gitea_ |                                 |                                                      |          |
+
+The cloud providers I use professionally and have a lot of experience managing huge environments on...
+
+|                                                   |       |     |     |
+| ------------------------------------------------: | :---- | --: | :-- |
+| <img src="/icons/aws.svg" width="30" height="30"> | _AWS_ |     |     |
+| <img src="/icons/gcp.svg" width="25" height="25"> | _GCP_ |     |     |
+
+When I need to manage infrastucture on cloud or deploy applications on linux I use or build VM images...
+
+|                                                              |           | <div style="width:100px"></div> |                                                         |             |
+| -----------------------------------------------------------: | :-------- | ------------------------------- | ------------------------------------------------------: | :---------- |
+|        <img src="/icons/ansible.svg" width="25" height="25"> | _Ansible_ |                                 | <img src="/icons/terraform.svg" width="25" height="25"> | _Terraform_ |
+| <img src="/icons/cloudformation.svg" width="25" height="25"> | _Gitea_   |                                 |                                                         |             |
+
+I am not very good with frontend stuff and to build simple websites and fontends for projects that I make I use...
+
+|                                                      |          | <div style="width:100px"></div> |     |     |
+| ---------------------------------------------------: | :------- | ------------------------------- | --: | :-- |
+|   <img src="/icons/hugo.svg" width="25" height="25"> | _Hugo_   |                                 |     |     |
+| <img src="/icons/svelte.svg" width="25" height="25"> | _Svelte_ |                                 |     |     |
+
+Technical certificatins I obtained over my long career...
+
+|                                                                                                 |                                                  |
+| :---------------------------------------------------------------------------------------------: | :----------------------------------------------: |
+| <img src="/images/aws-certified-solutions-architect-professional.png" width="100" height="100"> | AWS Certified Solutions Architect - Professional |
+|  <img src="/images/aws-certified-sysops-administrator-associate.png" width="100" height="100">  |  AWS Certified SysOps Administrator - Associate  |
+
+## Work Experience
 
 - **Cloud Platform Site Reliability Engineer**\
   Airbus ( June 2021 - Present )
@@ -83,7 +111,9 @@ Here are some tools that help me automate workflows of the projects I work on...
   - **Development**
     - Contibuted to the various solutions in the platform and created solutions to automate the devloper workflows and improving the devx.
   - **Operations**
-    - Worked on maintaining and developing Airbus Public Cloud platform, this is solution that manages all public cloud platforms ie. AWS, GCP and Azure - Creating landing zones for users, and handling day to day operations - Built and maintained Compliance for the platform, ie. managing SCPs, developing and maintaining compliance engine for checking and remediating user actions and resources on public cloud. - Planned and helped users across the org with migrating and operating workloads on PCP(Public Cloud Platform) - **Finops**
+    - Worked on maintaining and developing Airbus Public Cloud platform, this is solution that manages all public cloud platforms ie. AWS, GCP and Azure - Creating landing zones for users, and handling day to day operations - Built and maintained Compliance for the platform, ie. managing SCPs, developing and maintaining compliance engine for checking and remediating user actions and resources on public cloud. - Planned and helped users across the org with migrating and operating workloads on PCP(Public Cloud Platform)
+  - **Finops**
+    - Developed large and scalable solutions to manage costs across the organization by enforing finops policies while balancing the usability along with the security considerations.
 
 - **Solution Architecture Consultant**\
   Freelancer ( May 2020 - May 2021 )
@@ -94,10 +124,3 @@ Here are some tools that help me automate workflows of the projects I work on...
   Cyient Limited ( January 2018 - May 2020 )
 
   - **Center of Excellence** - Worked on planning, designing and deploying Software Defined WAN on three branches as a part of the Proof of concept project. - Ensured best practicies were followed while moving workloads to the cloud. - Provided architecture advice and ensured smooth migragion of workloads to the cloud. - Worked on business continuity and disaster recovery with various projects in the organization. - Helped harden linux for projects and help them main compliance with the organization guidelines.
-
-## Certifications
-
-|                                                                       |                                                  |
-| :-------------------------------------------------------------------: | :----------------------------------------------: |
-| ![cert 1](/images/aws-certified-solutions-architect-professional.png) | AWS Certified Solutions Architect - Professional |
-|  ![cert 2](/images/aws-certified-sysops-administrator-associate.png)  |  AWS Certified SysOps Administrator - Associate  |
