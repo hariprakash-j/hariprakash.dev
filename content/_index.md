@@ -2,4 +2,4 @@
 title: "Home"
 ---
 
-FOSS and Privacy advocate, Linux nerd, Arch user. Follow me on <a rel="me" href="https://fosstodon.org/@hariprakashj">Mastodon</a>
+Maker, tinkerer, linux enthusiast, gamer, FOSS and privacy advocate. Follow me on <a rel="me" href="https://fosstodon.org/@hariprakashj">Mastodon</a>
