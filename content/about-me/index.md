@@ -1,17 +1,19 @@
 +++
-title = 'About Me'
+title = 'Hari Prakash J'
 +++
 
-Maker, tinkerer, linux enthusiast, gamer, FOSS and privacy advocate. Currently a SRE at Airbus(the company that makes flying busses) with 6+ years of experience in architecting, developing and operating very large monolithic and distributed software systems on public cloud platforms like AWS, GCP and also bare metal.
+[hariprakash.dev](https://hariprakash.dev)
+
+Maker, tinkerer, linux enthusiast, gamer, anime enjoyer, FOSS and privacy advocate. Currently a SRE at Airbus(the company that makes flying busses) with 6+ years of experience in architecting, developing and operating very large monolithic and distributed software systems and infrastructure on public cloud platforms like AWS, GCP and also bare metal.
 
 ## My Socials
 
-You can follow me on...
+You can stalk me on...
 
-|                                                        |                                                                          |
-| -----------------------------------------------------: | :----------------------------------------------------------------------- |
-| <img src="/icons/mastodon.svg" width="25" height="25"> | <a rel="me" href="https://fosstodon.org/@hariprakashj">@hariprakashj</a> |
-|   <img src="/icons/github.svg" width="25" height="25"> | <a rel="me" href="https://github.com/hariprakash-j/">hariprakash-j</a>   |
+|                                                        |                                                                                        |
+| -----------------------------------------------------: | :------------------------------------------------------------------------------------- |
+| <img src="/icons/mastodon.svg" width="25" height="25"> | <a rel="me" href="https://fosstodon.org/@hariprakashj">@hariprakashj@fosstodon.org</a> |
+|   <img src="/icons/github.svg" width="25" height="25"> | <a rel="me" href="https://github.com/hariprakash-j/">hariprakash-j</a>                 |
 
 ## My Skills
 
@@ -80,7 +82,7 @@ The cloud providers I use professionally for very large scale environments and d
 | <img src="/icons/aws.svg" width="30" height="30"> | _AWS_ |     |     |
 | <img src="/icons/gcp.svg" width="25" height="25"> | _GCP_ |     |     |
 
-When I need to manage infrastucture on cloud or deploy applications on linux I use or build VM images...
+When I need to manage infrastructure on cloud or deploy applications on linux I use or build VM images...
 
 |                                                              |                  | <div style="width:100px"></div> |                                                         |             |
 | -----------------------------------------------------------: | :--------------- | ------------------------------- | ------------------------------------------------------: | :---------- |
@@ -94,18 +96,20 @@ When it works on my computer and I need to ship it...
 | <img src="/icons/docker.svg" width="25" height="25"> | _Docker_ |                                 | <img src="/icons/kubernetes.svg" width="25" height="25"> | _Kubernetes_ |
 | <img src="/icons/podman.svg" width="25" height="25"> | _Podman_ |                                 |                                                          |              |
 
-If someone held a gun to my head and asked me to center a div I'd take that gun and shoot myself. So, to preserve my sanity I use these frameworks to build simple websites/frontends for my projects...
+If someone held a gun to my head and asked me to center a div I'd take that gun and shoot myself. So, to preserve my sanity I use these frameworks to build simple websites or simple frontends for my projects...
 
-|                                                      |          | <div style="width:100px"></div> |     |     |
-| ---------------------------------------------------: | :------- | ------------------------------- | --: | :-- |
-|   <img src="/icons/hugo.svg" width="25" height="25"> | _Hugo_   |                                 |     |     |
-| <img src="/icons/svelte.svg" width="25" height="25"> | _Svelte_ |                                 |     |     |
+|                                                      |          | <div style="width:100px"></div> |                                                               |          |
+| ---------------------------------------------------: | :------- | ------------------------------- | ------------------------------------------------------------: | :------- |
+|   <img src="/icons/hugo.svg" width="25" height="25"> | _Hugo_   |                                 | <img src="/icons/material-mkdocs.svg" width="25" height="25"> | _Mkdocs_ |
+| <img src="/icons/svelte.svg" width="25" height="25"> | _Svelte_ |                                 |                                                               |          |
 
-Technical certifications I obtained over my long career...
+You want my certifications?! You can have it, I left it all together in that place, now you just have to find it...
 
 |                                                                                                 |                                                                                               |
 | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
 | <img src="/images/aws-certified-solutions-architect-professional.png" width="100" height="100"> | <img src="/images/aws-certified-sysops-administrator-associate.png" width="100" height="100"> |
+
+They are just here, no need to set sail to the grand line for them ; )
 
 ## My Work Experience
 
@@ -113,20 +117,55 @@ Technical certifications I obtained over my long career...
   Airbus ( June 2021 - Present )
 
   - **Architecture**
-    - Worked on Architecting and creating solutions to automate resource management across the organizaiton for managing costs, enforcing compliacne or security standards and improving realibility of the applications in the organization.
+    - Architected, developed and deployed solutions for enforcing compliance, security standards and improving reliability and availability of the applications on cloud.
+    - Improved the architecture of the AMI(amazon machine image) Factory, the solution that generates hardened images with an assortment of preinstalled monitoring tools for compute on aws.
+    - Improved the efficiency of the various build pipelines by implementing optimizations to speed up them up up to 200%
   - **Development**
-    - Contibuted to the various solutions in the platform and created solutions to automate the devloper workflows and improving the devx.
+    - Contributed to the platform and various solutions running the platform to maintain and improve them where possible.
+    - Created many tools to automate the developer workflows and improving devX.
+    - Created pipelines for regularly building and distributing custom Linux AMIs across the organization (RHEL 8, RHEL 9, SUSE 15 and Amazon linux 2).
   - **Operations**
-    - Worked on maintaining and developing Airbus Public Cloud platform, this is solution that manages all public cloud platforms ie. AWS, GCP and Azure - Creating landing zones for users, and handling day to day operations - Built and maintained Compliance for the platform, ie. managing SCPs, developing and maintaining compliance engine for checking and remediating user actions and resources on public cloud. - Planned and helped users across the org with migrating and operating workloads on PCP(Public Cloud Platform)
+    - Worked on maintaining and developing Airbus Public Cloud platform (this is solution that manages all public cloud platforms ie. AWS, GCP and Azure).
+    - Creating landing zones for users, and handled day to day operations regarding L3 support for all the projects that run on cloud in the organization
+    - Built and maintained Compliance for the platform, ie. managing SCPs, developing and maintaining compliance engine for checking and remediating user actions and resources on public cloud.
+    - Planned and helped users across the org with migrating to and operating workloads to PCP(Public Cloud Platform).
+    - Creating and applying global backup and retention policies for all the cloud resources.
+    - Creating integrations for various SaaS solutions like, splunk, McAfee AV, Cyberark, service-now, cloudhealth, prisma cloud etc...
+    - Created a solution for monitoring GPU utilization across the org for both nvidia and amd GPUs running on linux and windows.
   - **Finops**
-    - Developed large and scalable solutions to manage costs across the organization by enforcing finops policies while balancing the usability along with the security considerations.
+    - Developed and contributed to large and scalable event based solutions to optimize costs on across the organization by enforcing finops policies such as applying global policies on s3 buckets that optimize costs, scheduling non prod resources based on regional working hours, monitoring ec2 instance usage and recommending resizing when it is required etc...
+    - Developed and implemented monitoring solutions to clean up development resources on cloud to eliminate waste.
 
 - **Solution Architecture Consultant**\
   Freelancer ( May 2020 - May 2021 )
 
-  - **Architecture and Development** - Consulted and worked on an end to end IOT solution. - Designed a power and environment monitoring solution. - Developed, tested and deliverd the power and environment monitoring solution.
+  - **Architecture and Development**
+    - Consulted and worked on an end to end IOT solution.
+    - Designed a power and environment monitoring solution.
+    - Developed, tested and delivered the power and environment monitoring solution.
 
 - **Cloud Engineer**\
   Cyient Limited ( January 2018 - May 2020 )
 
-  - **Center of Excellence** - Worked on planning, designing and deploying Software Defined WAN on three branches as a part of the Proof of concept project. - Ensured best practicies were followed while moving workloads to the cloud. - Provided architecture advice and ensured smooth migragion of workloads to the cloud. - Worked on business continuity and disaster recovery with various projects in the organization. - Helped harden linux for projects and help them main compliance with the organization guidelines.
+  - **Center of Excellence**
+    - Worked on planning, designing and deploying Software Defined WAN on three branches as a part of the Proof of concept project.
+    - Ensured best practicies were followed while moving workloads to the cloud.
+    - Provided architecture advice and ensured smooth migragion of workloads to the cloud.
+    - Worked on business continuity and disaster recovery with various projects in the organization.
+    - Helped harden linux for projects and help them main compliance with the organization guidelines.
+
+## My Projects
+
+- **Weather Report**\
+  [Github repo](https://github.com/hariprakash-j/weather-report)
+  - A personal project to create a microservices based resource scheduler for AWS and GCP.
+- **Bunjs Lambda Runtime**\
+  [Github repo](https://github.com/hariprakash-j/bun-lambda)
+  - A bundled runtime for lambda that uses the Bunjs runtime.
+- **Rain Cli**\
+  [Github repo](https://github.com/aws-cloudformation/rain)
+  - Contributed various features and bug fixes to this AWS Cloudformation devops tool.
+  - Constantly engage with the maintainers to discuss new features for the tool.
+- **AWS CDK(Cloud Development Kit)**\
+  [Github repo](https://github.com/aws/aws-cdk)
+  - Contributed bug fixes
