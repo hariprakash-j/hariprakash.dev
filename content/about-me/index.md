@@ -111,49 +111,6 @@ You want my certifications?! You can have it, I left it all together in that pla
 
 They are just here, no need to set sail to the grand line for them ; )
 
-## My Work Experience
-
-- **Cloud Platform Site Reliability Engineer**\
-  Airbus ( June 2021 - Present )
-
-  - **Architecture**
-    - Architected, developed and deployed solutions for enforcing compliance, security standards and improving reliability and availability of the applications on cloud.
-    - Improved the architecture of the AMI(amazon machine image) Factory, the solution that generates hardened images with an assortment of preinstalled monitoring tools for compute on aws.
-    - Improved the efficiency of the various build pipelines by implementing optimizations to speed up them up up to 200%
-  - **Development**
-    - Contributed to the platform and various solutions running the platform to maintain and improve them where possible.
-    - Created many tools to automate the developer workflows and improving devX.
-    - Created pipelines for regularly building and distributing custom Linux AMIs across the organization (RHEL 8, RHEL 9, SUSE 15 and Amazon linux 2).
-  - **Operations**
-    - Worked on maintaining and developing Airbus Public Cloud platform (this is solution that manages all public cloud platforms ie. AWS, GCP and Azure).
-    - Creating landing zones for users, and handled day to day operations regarding L3 support for all the projects that run on cloud in the organization
-    - Built and maintained Compliance for the platform, ie. managing SCPs, developing and maintaining compliance engine for checking and remediating user actions and resources on public cloud.
-    - Planned and helped users across the org with migrating to and operating workloads to PCP(Public Cloud Platform).
-    - Creating and applying global backup and retention policies for all the cloud resources.
-    - Creating integrations for various SaaS solutions like, splunk, McAfee AV, Cyberark, service-now, cloudhealth, prisma cloud etc...
-    - Created a solution for monitoring GPU utilization across the org for both nvidia and amd GPUs running on linux and windows.
-  - **Finops**
-    - Developed and contributed to large and scalable event based solutions to optimize costs on across the organization by enforcing finops policies such as applying global policies on s3 buckets that optimize costs, scheduling non prod resources based on regional working hours, monitoring ec2 instance usage and recommending resizing when it is required etc...
-    - Developed and implemented monitoring solutions to clean up development resources on cloud to eliminate waste.
-
-- **Solution Architecture Consultant**\
-  Freelancer ( May 2020 - May 2021 )
-
-  - **Architecture and Development**
-    - Consulted and worked on an end to end IOT solution.
-    - Designed a power and environment monitoring solution.
-    - Developed, tested and delivered the power and environment monitoring solution.
-
-- **Cloud Engineer**\
-  Cyient Limited ( January 2018 - May 2020 )
-
-  - **Center of Excellence**
-    - Worked on planning, designing and deploying Software Defined WAN on three branches as a part of the Proof of concept project.
-    - Ensured best practicies were followed while moving workloads to the cloud.
-    - Provided architecture advice and ensured smooth migragion of workloads to the cloud.
-    - Worked on business continuity and disaster recovery with various projects in the organization.
-    - Helped harden linux for projects and help them main compliance with the organization guidelines.
-
 ## My Projects
 
 - **Weather Report**\
